@@ -1,0 +1,40 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hostalemeritae.com/",
+ "read_at": "2026-11-02T07:19:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hostalemeritae.com/",
+   "sha256": "c5e20dfa98a70e775b4292f0fe34f1bde7287e97501270ad6d9d88760e6c2919",
+   "chars": 2171
+  },
+  {
+   "url": "https://www.hostalemeritae.com/contacto/",
+   "sha256": "8fed6885a7cf185ed82f974c24b3d879f2fe06e8c41c3d7275f48193c5e5eab9",
+   "chars": 6146
+  },
+  {
+   "url": "https://www.hostalemeritae.com/establecimiento/habitaciones/",
+   "sha256": "fbdd19cf3b62c291cf0665692631c76cdad5472a3f92ca3d4fd09f783fa3b72c",
+   "chars": 1625
+  },
+  {
+   "url": "https://www.hostalemeritae.com/establecimiento/servicios/",
+   "sha256": "c3eeccb4513132e04c07c20cee2d6c1ff094b064a1d635c59be7076b0fe722fb",
+   "chars": 2042
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hostalemeritae.com/aviso-legal/",
+  "https://www.hostalemeritae.com/contacto",
+  "https://www.hostalemeritae.com/en/",
+  "https://www.hostalemeritae.com/en/establishment/",
+  "https://www.hostalemeritae.com/establecimiento/",
+  "https://www.hostalemeritae.com/fotografias/",
+  "https://www.hostalemeritae.com/mapa-del-sitio/",
+  "https://www.hostalemeritae.com/politica-de-cookies",
+  "https://www.hostalemeritae.com/politica-de-privacidad/",
+  "https://www.hostalemeritae.com/visita-merida/"
+ ]
+}
