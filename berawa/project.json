@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-hostal-emeritae-merida",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T07:18:00+01:00",
+ "updated_at": "2026-11-02T07:28:00+01:00",
+ "business": {
+  "name": "Hostal Emeritae",
+  "legal_name": "HOSTAL EMERITAE S.L., NIF B06395552 (aviso legal de su web)",
+  "registry_ids": [
+   "B06395552"
+  ],
+  "url": "https://www.hostalemeritae.com/",
+  "domain": "hostalemeritae.com",
+  "municipality": "Mérida",
+  "province": "Badajoz",
+  "address": "C/ Sagasta, 40 · 06800 Mérida (Badajoz)",
+  "phones": [
+   "+34 924 303 183"
+  ],
+  "emails": [
+   "info@hostalemeritae.com"
+  ],
+  "sector": "hostal en el centro de Merida junto al Teatro Romano"
+ },
+ "rating": {
+  "value": 4.4,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por tel, web)",
+  "url": "https://www.google.com/maps/place/HOSTAL+EMERITAE+SL/@38.9172959,-6.3417157,17z",
+  "date": "2026-10-29",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://booking.availroom.com/booking_engine.php?id=AE4B79D6460940DCBBAC84007FA1046A&lang=es",
+  "note": "motor AvailRoom enlazado desde su web (boton Reservas): https://booking.availroom.com/booking_engine.php?id=AE4B79D6460940DCBBAC84007FA1046A, HTTP 200 con &lang=es/en/fr/de (02/11/2026 07:17)."
+ },
+ "audit_original": {
+  "url": "https://www.hostalemeritae.com/",
+  "date": "2026-11-02T07:18:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
