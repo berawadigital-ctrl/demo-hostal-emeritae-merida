@@ -1,0 +1,468 @@
+{
+ "url": "file:///tmp/zip-hostal-emeritae-merida/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay habitaciones individuales, dobles, dobles con terraza, triples y cuádruples. Son confortables e insonorizadas, con baño con ducha, secad"
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí, hay wifi gratis de alta velocidad en todo el edificio. Todas las habitaciones tienen climatización, TV LED y doble acristalamiento."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, hay parking privado de pago, por plaza y día. Consulta la tarifa y la disponibilidad al reservar."
+    },
+    {
+     "q": "¿Cuál es el horario de recepción?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "La recepción está abierta de 10 de la mañana a 21 h. Allí tienes planos de la ciudad e información sobre monumentos, horarios y sitios donde"
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Estamos en la C/ Sagasta, 40, 06800 Mérida, a 150 m del Museo Nacional de Arte Romano y del Teatro Romano. En la misma calle están el Pórtic"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar) o llamando al +34 924 303 183. Este asistente no confirma disponibilidad ni reserva"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar) o llamando al +34 924 303 183. Este asistente no confirma disponibilidad ni reserva"
+    },
+    {
+     "q": "¿Puedo cancelar gratis?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Puedes cancelar gratis hasta 3 días antes de la llegada. Si cancelas en los 3 días anteriores, se paga la primera noche; si no te presentas,"
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "No, no se aceptan mascotas."
+    },
+    {
+     "q": "¿Es accesible?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, el edificio y las habitaciones están adaptados a personas con movilidad reducida, y hay ascensor."
+    },
+    {
+     "q": "Hago la Ruta de la Plata, ¿puedo lavar la bici?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Si haces la Ruta de la Plata, puedes lavar tu bici gratis. También ofrecen transporte de maletas a otros pueblos o ciudades para peregrinos."
+    },
+    {
+     "q": "¿Puedo dejar las maletas?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Sí, hay guardamaletas para que disfrutes el día de salida sin cargas. También hay servicio de transporte de maletas a otros puntos, como aer"
+    },
+    {
+     "q": "¿Hay lavandería?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí, hay servicio de lavandería con lavado y secado, de pago. Consulta el precio en recepción."
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "El check-in es a partir de las 14:00 h y el check-out, como muy tarde, a las 12:00 h."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K14",
+     "ok": true,
+     "respuesta": "El horario del desayuno es de 07:30 a 11:30 h. Consulta las condiciones al reservar."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 924 303 183 · info@hostalemeritae.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 924 303 183 · info@hostalemeritae.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Hay parking?",
+    "¿Hay desayuno?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are single, double, double with terrace, triple and quadruple rooms. They are comfortable and soundproofed, with bathroom with shower,"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes, there is free high-speed wifi throughout the building. All rooms have air conditioning, LED TV and double glazing."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, there is paid private parking, per space and day. Please ask about the rate and availability when booking."
+    },
+    {
+     "q": "What are the reception hours?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Reception is open from 10 in the morning to 21 h. There you will find city maps and information about monuments, opening times and places to"
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "We are at C/ Sagasta, 40, 06800 Mérida, 150 m from the National Museum of Roman Art and the Roman Theatre. The Portico of the Forum, the Tem"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "You can book on their booking engine (Book button) or by calling +34 924 303 183. This assistant does not confirm availability or bookings. "
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "You can book on their booking engine (Book button) or by calling +34 924 303 183. This assistant does not confirm availability or bookings. "
+    },
+    {
+     "q": "Can I cancel for free?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "You can cancel free of charge up to 3 days before arrival. If you cancel within the 3 days before, the first night is charged; if you do not"
+    },
+    {
+     "q": "Do you allow pets?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "No, pets are not allowed."
+    },
+    {
+     "q": "Is it accessible?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes, the building and the rooms are adapted for people with reduced mobility, and there is a lift."
+    },
+    {
+     "q": "I am a pilgrim on the Vía de la Plata, can I wash my bike?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "If you are on the Vía de la Plata, you can wash your bike for free. They also offer luggage transport to other towns or cities for pilgrims."
+    },
+    {
+     "q": "Can I leave my luggage?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Yes, there is luggage storage so you can enjoy your departure day without bags. There is also a luggage transport service to other places, s"
+    },
+    {
+     "q": "Is there a laundry?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Yes, there is a paid laundry service with washing and drying. Ask at reception about the price."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Check-in is from 14:00 and check-out is at 12:00 at the latest."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K14",
+     "ok": true,
+     "respuesta": "Breakfast is served from 07:30 to 11:30. Please ask about the conditions when booking."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 924 303 183 · info@hostalemeritae.com."
+    },
+    {
+     "q": "Do you have a pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 924 303 183 · info@hostalemeritae.com."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Is there parking?",
+    "Is there breakfast?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a des chambres individuelles, doubles, doubles avec terrasse, triples et quadruples. Elles sont confortables et insonorisées, avec sall"
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui, il y a le wifi gratuit à haut débit dans tout le bâtiment. Toutes les chambres ont la climatisation, une TV LED et le double vitrage."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, il y a un parking privé payant, par place et par jour. Renseignez-vous sur le tarif et la disponibilité lors de la réservation."
+    },
+    {
+     "q": "Quels sont les horaires de la réception ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "La réception est ouverte de 10 h du matin à 21 h. Vous y trouverez des plans de la ville et des informations sur les monuments, les horaires"
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Nous sommes C/ Sagasta, 40, 06800 Mérida, à 150 m du Musée national d’art romain et du Théâtre romain. Le Portique du Forum, le Temple de Di"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur leur moteur de réservation (bouton Réserver) ou en appelant le +34 924 303 183. Cet assistant ne confirme ni dispon"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur leur moteur de réservation (bouton Réserver) ou en appelant le +34 924 303 183. Cet assistant ne confirme ni dispon"
+    },
+    {
+     "q": "Puis-je annuler gratuitement ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Vous pouvez annuler gratuitement jusqu’à 3 jours avant l’arrivée. En cas d’annulation dans les 3 jours précédents, la première nuit est due "
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Non, les animaux ne sont pas acceptés."
+    },
+    {
+     "q": "Est-ce accessible ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui, le bâtiment et les chambres sont adaptés aux personnes à mobilité réduite, et il y a un ascenseur."
+    },
+    {
+     "q": "Je suis pèlerin à vélo, puis-je laver mon vélo ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Si vous faites la Vía de la Plata, vous pouvez laver votre vélo gratuitement. Ils proposent aussi le transport de bagages vers d’autres vill"
+    },
+    {
+     "q": "Puis-je laisser mes bagages ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Oui, il y a une bagagerie pour profiter du jour du départ sans bagages. Il y a aussi un service de transport de bagages vers d’autres lieux,"
+    },
+    {
+     "q": "Y a-t-il une laverie ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Oui, il y a un service de laverie payant, avec lavage et séchage. Renseignez-vous sur le prix à la réception."
+    },
+    {
+     "q": "À quelle heure est l’arrivée ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "L’arrivée se fait à partir de 14:00 et le départ au plus tard à 12:00."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K14",
+     "ok": true,
+     "respuesta": "Le petit-déjeuner est servi de 07:30 à 11:30. Renseignez-vous sur les conditions lors de la réservation."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 924 303 183 · info@hostalemeritae.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 924 303 183 · info@hostalemeritae.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Y a-t-il un parking ?",
+    "Y a-t-il un petit-déjeuner ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt Einzel-, Doppel-, Doppelzimmer mit Terrasse, Dreibett- und Vierbettzimmer. Sie sind komfortabel und schallisoliert, mit Bad mit Dusc"
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ja, es gibt kostenloses schnelles WLAN im ganzen Gebäude. Alle Zimmer haben Klimaanlage, LED-TV und Doppelverglasung."
+    },
+    {
+     "q": "Gibt es Parkplätze?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja, es gibt einen kostenpflichtigen Privatparkplatz, pro Stellplatz und Tag. Bitte fragen Sie bei der Buchung nach Preis und Verfügbarkeit."
+    },
+    {
+     "q": "Wann ist die Rezeption geöffnet?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Die Rezeption ist von 10 Uhr morgens bis 21 Uhr geöffnet. Dort gibt es Stadtpläne und Informationen zu Sehenswürdigkeiten, Öffnungszeiten un"
+    },
+    {
+     "q": "Wo liegt das Hostal?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Wir sind in der C/ Sagasta, 40, 06800 Mérida, 150 m vom Nationalmuseum für Römische Kunst und vom Römischen Theater. In derselben Straße lie"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder unter +34 924 303 183 anrufen. Dieser Assistent bestätigt weder Verfü"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine buchen (Schaltfläche Buchen) oder unter +34 924 303 183 anrufen. Dieser Assistent bestätigt weder Verfü"
+    },
+    {
+     "q": "Kann ich kostenlos stornieren?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sie können bis 3 Tage vor Anreise kostenlos stornieren. Bei Stornierung innerhalb der 3 Tage davor wird die erste Nacht berechnet; bei Nicht"
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Nein, Haustiere sind nicht erlaubt."
+    },
+    {
+     "q": "Ist es barrierefrei?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Ja, das Gebäude und die Zimmer sind für Menschen mit eingeschränkter Mobilität angepasst, und es gibt einen Aufzug."
+    },
+    {
+     "q": "Ich bin Pilger mit dem Fahrrad, gibt es etwas für Pilger?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Wenn Sie auf der Vía de la Plata unterwegs sind, können Sie Ihr Fahrrad kostenlos waschen. Für Pilger gibt es außerdem Gepäcktransport in an"
+    },
+    {
+     "q": "Kann ich mein Gepäck lassen?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Ja, es gibt eine Gepäckaufbewahrung, damit Sie den Abreisetag ohne Gepäck genießen können. Außerdem gibt es einen Gepäcktransport zu anderen"
+    },
+    {
+     "q": "Gibt es eine Wäscherei?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ja, es gibt einen kostenpflichtigen Wäscheservice mit Waschen und Trocknen. Fragen Sie an der Rezeption nach dem Preis."
+    },
+    {
+     "q": "Ab wann ist der Check-in?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Check-in ab 14:00 Uhr, Check-out spätestens um 12:00 Uhr."
+    },
+    {
+     "q": "Gibt es Frühstück?",
+     "esperado": "K14",
+     "ok": true,
+     "respuesta": "Frühstück gibt es von 07:30 bis 11:30 Uhr. Bitte fragen Sie bei der Buchung nach den Bedingungen."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 924 303 183 · info@hostalemeritae.com."
+    },
+    {
+     "q": "Gibt es einen Pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 924 303 183 · info@hostalemeritae.com."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Gibt es Parkplätze?",
+    "Gibt es Frühstück?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
